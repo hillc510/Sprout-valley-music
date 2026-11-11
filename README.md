@@ -1,1 +1,3 @@
-# Sprout-valley-music
+# Sprout Valley
+
+A little family game. 🌱
